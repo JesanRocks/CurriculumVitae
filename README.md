@@ -1,5 +1,5 @@
+<p align="center"><img src="images/logo.png"></p>
 <h1>Curriculum Vitae</h1>
-<p ><img src="images/logo.png"></p>
 <p align="justify">Este Curriculum vitae se diseño con unicamente con HTML5, <a href="https://materializecss.com" target="_blank">MaterializeCSS</a>,<a href="https://fontawesome.com/" target="_blank">FontAweseome</a> & <a href="https://pages.github.com/" target="_blank">GitHub pages</a></p>
 
 <h1>Vista</h1>
